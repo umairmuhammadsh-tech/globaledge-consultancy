@@ -1,0 +1,113 @@
+import Navbar from '@/components/Navbar'
+import Footer from '@/components/Footer'
+import Hero from '@/components/Hero'
+import Stats from '@/components/Stats'
+import Services from '@/components/Services'
+import Countries from '@/components/Countries'
+import Testimonials from '@/components/Testimonials'
+import WhyUs from '@/components/WhyUs'
+import Link from 'next/link'
+import { FaArrowRight, FaCalendarAlt, FaPhone } from 'react-icons/fa'
+
+export const metadata = {
+  title: 'GlobalEdge Consultancy | Your Gateway to World-Class Education',
+  description:
+    'Expert guidance on university admissions, visa support, scholarships, and test prep. Helping students study in UK, USA, Canada, Australia, Germany & New Zealand.',
+}
+
+export default function HomePage() {
+  return (
+    <>
+      <Navbar />
+      <main>
+        {/* Hero */}
+        <Hero />
+
+        {/* Stats */}
+        <Stats />
+
+        {/* Services Preview */}
+        <Services preview={true} />
+
+        {/* WhyUs */}
+        <WhyUs />
+
+        {/* Countries Preview */}
+        <Countries preview={true} />
+
+        {/* Testimonials */}
+        <Testimonials />
+
+        {/* CTA Section */}
+        <section className="py-20 bg-gradient-primary relative overflow-hidden">
+          {/* Decorative */}
+          <div className="absolute inset-0 opacity-10">
+            <div className="absolute top-0 left-1/4 w-72 h-72 bg-gold rounded-full blur-3xl" />
+            <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-blue-400 rounded-full blur-3xl" />
+          </div>
+
+          <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <span className="inline-block bg-gold/20 text-gold border border-gold/30 rounded-full px-4 py-1.5 text-sm font-medium mb-6">
+              🎓 Limited Slots Available for 2025 Intake
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold text-white font-heading mb-6 leading-tight">
+              Ready to Begin Your{' '}
+              <span className="text-gold">International Education</span> Journey?
+            </h2>
+            <p className="text-gray-300 text-lg mb-10 max-w-2xl mx-auto">
+              Join over 10,000 students who have already achieved their dreams with GlobalEdge
+              Consultancy. Book your free consultation today.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link href="/apply" className="btn-primary py-4 px-10 text-base flex items-center justify-center gap-2 group">
+                Apply Now
+                <FaArrowRight className="group-hover:translate-x-1 transition-transform" />
+              </Link>
+              <Link href="/contact" className="btn-secondary py-4 px-10 text-base flex items-center justify-center gap-2 border-white text-white hover:bg-white hover:text-primary">
+                <FaCalendarAlt />
+                Book Free Consultation
+              </Link>
+            </div>
+
+            {/* Contact Option */}
+            <div className="mt-10 flex items-center justify-center gap-3 text-gray-400">
+              <FaPhone size={14} />
+              <span className="text-sm">
+                Prefer to call? Reach us at{' '}
+                <a href="tel:+1234567890" className="text-gold hover:underline font-medium">
+                  +1 (234) 567-890
+                </a>
+              </span>
+            </div>
+          </div>
+        </section>
+
+        {/* Partners / Accreditations Strip */}
+        <section className="py-10 bg-gray-50 border-t border-gray-200">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="text-center text-gray-400 text-sm font-medium mb-6">
+              TRUSTED PARTNER OF LEADING UNIVERSITIES WORLDWIDE
+            </p>
+            <div className="flex flex-wrap justify-center items-center gap-8 opacity-50">
+              {[
+                'Oxford University',
+                'MIT',
+                'University of Toronto',
+                'University of Melbourne',
+                'TU Munich',
+                'University of Auckland',
+                'Harvard University',
+                'Stanford University',
+              ].map((uni) => (
+                <span key={uni} className="text-gray-500 font-semibold text-sm whitespace-nowrap">
+                  {uni}
+                </span>
+              ))}
+            </div>
+          </div>
+        </section>
+      </main>
+      <Footer />
+    </>
+  )
+}

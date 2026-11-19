@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --primary: #1e3a5f;
+  --primary-dark: #152c47;
+  --primary-light: #264d7a;
+  --gold: #f5a623;
+  --gold-dark: #d4891a;
+  --gold-light: #f7b84b;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: #1a1a2e;
+  background: #ffffff;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-gold text-primary font-semibold px-6 py-3 rounded-lg hover:bg-gold-dark transition-all duration-300 shadow-gold hover:shadow-lg hover:-translate-y-0.5 inline-block;
+  }
+
+  .btn-secondary {
+    @apply border-2 border-gold text-gold font-semibold px-6 py-3 rounded-lg hover:bg-gold hover:text-primary transition-all duration-300 inline-block;
+  }
+
+  .btn-white {
+    @apply bg-white text-primary font-semibold px-6 py-3 rounded-lg hover:bg-gray-100 transition-all duration-300 shadow-md hover:shadow-lg hover:-translate-y-0.5 inline-block;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-primary font-heading;
+  }
+
+  .section-subtitle {
+    @apply text-lg text-gray-600 mt-4 max-w-2xl mx-auto;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-card p-6 hover:shadow-xl transition-all duration-300 hover:-translate-y-1;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary to-primary-light bg-clip-text text-transparent;
+  }
+
+  .gold-gradient-text {
+    background: linear-gradient(135deg, #f5a623, #d4891a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-gold focus:border-transparent transition-all duration-200 text-gray-700;
+  }
+
+  .label {
+    @apply block text-sm font-medium text-gray-700 mb-1;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e3a5f;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #264d7a;
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+.float-animation {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.shimmer {
+  background: linear-gradient(90deg, transparent 25%, rgba(245, 166, 35, 0.2) 50%, transparent 75%);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
