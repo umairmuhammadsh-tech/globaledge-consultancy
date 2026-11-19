@@ -8,6 +8,7 @@ import { FaBars, FaTimes, FaGraduationCap, FaPhone, FaEnvelope } from 'react-ico
 const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Services', href: '/services' },
+  { label: 'Scholarships', href: '/scholarships' },
   { label: 'Destinations', href: '/countries' },
   { label: 'About Us', href: '/about' },
   { label: 'Contact', href: '/contact' },

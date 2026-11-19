@@ -38,6 +38,46 @@ export default function HomePage() {
         {/* Testimonials */}
         <Testimonials />
 
+        {/* Scholarships Preview Section */}
+        <section className="py-20 bg-gray-50">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center mb-12">
+              <span className="inline-block bg-gold/10 text-gold border border-gold/20 rounded-full px-4 py-1.5 text-sm font-semibold mb-4">
+                🏆 Fully Funded
+              </span>
+              <h2 className="section-title">Top Global Scholarships</h2>
+              <p className="section-subtitle">
+                We help students secure fully funded scholarships from the world's top governments.
+              </p>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4 mb-10">
+              {[
+                { flag: '🇨🇳', name: 'CSC China', color: 'bg-red-50 border-red-200' },
+                { flag: '🇯🇵', name: 'MEXT Japan', color: 'bg-pink-50 border-pink-200' },
+                { flag: '🇪🇺', name: 'Erasmus+', color: 'bg-blue-50 border-blue-200' },
+                { flag: '🇩🇪', name: 'DAAD Germany', color: 'bg-gray-50 border-gray-300' },
+                { flag: '🇹🇷', name: 'Türkiye Bursları', color: 'bg-red-50 border-red-200' },
+                { flag: '🇰🇷', name: 'GKS Korea', color: 'bg-cyan-50 border-cyan-200' },
+                { flag: '🇭🇺', name: 'Stipendium Hungary', color: 'bg-green-50 border-green-200' },
+              ].map((s) => (
+                <Link
+                  key={s.name}
+                  href="/scholarships"
+                  className={`flex flex-col items-center p-4 rounded-xl border-2 ${s.color} hover:scale-105 hover:shadow-md transition-all duration-200 text-center`}
+                >
+                  <span className="text-3xl mb-2">{s.flag}</span>
+                  <span className="text-xs font-semibold text-gray-700 leading-tight">{s.name}</span>
+                </Link>
+              ))}
+            </div>
+            <div className="text-center">
+              <Link href="/scholarships" className="btn-primary px-10 py-4 text-base">
+                View All 12+ Scholarships →
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {/* CTA Section */}
         <section className="py-20 bg-gradient-primary relative overflow-hidden">
           {/* Decorative */}
