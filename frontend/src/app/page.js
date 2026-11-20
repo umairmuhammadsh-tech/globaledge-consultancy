@@ -121,8 +121,8 @@ export default function HomePage() {
               <FaPhone size={14} />
               <span className="text-sm">
                 Prefer to call? Reach us at{' '}
-                <a href="tel:+1234567890" className="text-gold hover:underline font-medium">
-                  +1 (234) 567-890
+                <a href="tel:+923124718386" className="text-gold hover:underline font-medium">
+                  +92 312 4718386
                 </a>
               </span>
             </div>

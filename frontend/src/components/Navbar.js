@@ -36,11 +36,11 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-4 flex justify-between items-center">
           <span className="text-gray-300">🌍 Your Gateway to World-Class Education</span>
           <div className="flex items-center gap-6">
-            <a href="tel:+1234567890" className="flex items-center gap-2 hover:text-gold transition-colors">
-              <FaPhone size={12} /> +1 (234) 567-890
+            <a href="tel:+923124718386" className="flex items-center gap-2 hover:text-gold transition-colors">
+              <FaPhone size={12} /> +92 312 4718386
             </a>
-            <a href="mailto:info@globaledge.com" className="flex items-center gap-2 hover:text-gold transition-colors">
-              <FaEnvelope size={12} /> info@globaledge.com
+            <a href="mailto:huzglobalsolutions@gmail.com" className="flex items-center gap-2 hover:text-gold transition-colors">
+              <FaEnvelope size={12} /> huzglobalsolutions@gmail.com
             </a>
           </div>
         </div>
@@ -128,11 +128,11 @@ export default function Navbar() {
               </Link>
             </div>
             <div className="pt-3 space-y-2 text-sm text-gray-500">
-              <a href="tel:+1234567890" className="flex items-center gap-2 px-4">
-                <FaPhone size={12} /> +1 (234) 567-890
+              <a href="tel:+923124718386" className="flex items-center gap-2 px-4">
+                <FaPhone size={12} /> +92 312 4718386
               </a>
-              <a href="mailto:info@globaledge.com" className="flex items-center gap-2 px-4">
-                <FaEnvelope size={12} /> info@globaledge.com
+              <a href="mailto:huzglobalsolutions@gmail.com" className="flex items-center gap-2 px-4">
+                <FaEnvelope size={12} /> huzglobalsolutions@gmail.com
               </a>
             </div>
           </div>

@@ -106,16 +106,16 @@ export default function ContactPage() {
                   {
                     icon: FaPhone,
                     title: 'Phone',
-                    lines: ['+1 (234) 567-890', '+1 (234) 567-891'],
+                    lines: ['+92 312 4718386'],
                     type: 'tel',
-                    links: ['tel:+1234567890', 'tel:+1234567891'],
+                    links: ['tel:+923124718386'],
                   },
                   {
                     icon: FaEnvelope,
                     title: 'Email',
-                    lines: ['info@globaledge.com', 'admissions@globaledge.com'],
+                    lines: ['huzglobalsolutions@gmail.com'],
                     type: 'email',
-                    links: ['mailto:info@globaledge.com', 'mailto:admissions@globaledge.com'],
+                    links: ['mailto:huzglobalsolutions@gmail.com'],
                   },
                   {
                     icon: FaMapMarkerAlt,

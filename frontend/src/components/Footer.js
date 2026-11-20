@@ -162,14 +162,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <FaPhone className="text-gold flex-shrink-0" size={14} />
-                <a href="tel:+1234567890" className="text-gray-400 hover:text-gold transition-colors text-sm">
-                  +1 (234) 567-890
+                <a href="tel:+923124718386" className="text-gray-400 hover:text-gold transition-colors text-sm">
+                  +92 312 4718386
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <FaEnvelope className="text-gold flex-shrink-0" size={14} />
-                <a href="mailto:info@globaledge.com" className="text-gray-400 hover:text-gold transition-colors text-sm">
-                  info@globaledge.com
+                <a href="mailto:huzglobalsolutions@gmail.com" className="text-gray-400 hover:text-gold transition-colors text-sm">
+                  huzglobalsolutions@gmail.com
                 </a>
               </li>
             </ul>
