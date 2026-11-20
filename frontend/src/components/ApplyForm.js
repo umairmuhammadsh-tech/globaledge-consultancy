@@ -5,7 +5,27 @@ import { FaCheckCircle, FaExclamationCircle, FaSpinner } from 'react-icons/fa'
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000'
 
-const countries = ['United Kingdom', 'United States', 'Canada', 'Australia', 'Germany', 'New Zealand']
+const countries = [
+  'United Kingdom (Commonwealth, Chevening)',
+  'United States (Fulbright, SUSI)',
+  'Canada',
+  'Australia (Australia Awards)',
+  'Germany (DAAD, Public Unis)',
+  'China (CSC, ANSO Scholarships)',
+  'Japan (MEXT Scholarship)',
+  'South Korea (GKS Scholarship)',
+  'Europe (Erasmus+ Joint Masters)',
+  'Turkey (Türkiye Bursları)',
+  'Russia (Open Doors, State Quota)',
+  'Saudi Arabia (Study in Saudi)',
+  'Indonesia (KNB Scholarship)',
+  'France (Eiffel Excellence)',
+  'Belgium (Master Mind Flanders)',
+  'Hungary (Stipendium Hungaricum)',
+  'Switzerland (Swiss Excellence)',
+  'New Zealand',
+  'Other / Open to Suggestions',
+]
 const services = [
   'University Admissions',
   'Visa Guidance',
