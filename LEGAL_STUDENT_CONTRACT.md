@@ -59,25 +59,33 @@ C. The Parties desire to formalize the terms, conditions, procedural covenants, 
 
 ---
 
-### CLAUSE 3: REMUNERATION, ITEMIZED FEE SCHEDULE & COMPREHENSIVE PACKAGE INCENTIVE
+### CLAUSE 3: REMUNERATION, ITEMIZED FEE SCHEDULE & SPECIALIZED SCHOLARSHIP TRACKS
 
-3.1. **Standard Itemized Fee Schedule:** The Client agrees to tender to the Company the requisite Professional Fees in accordance with the following structured service modules:
+3.1. **Standard Academic & Visa Placement Modules:** The Client agrees to tender to the Company the requisite Professional Fees in accordance with the following structured service modules:
 
-| Service Module Code | Description of Specialized Advisory Services | Standalone Tariff (EUR) | Applicable Selection [✓] |
-|---|---|---|---|
-| **MODULE A** | **University Admission Processing & Academic Placement Liaison**<br>• Institutional matching, qualification evaluation, and submission of academic admission dossiers to accredited international colleges/universities. | **€350** *(Three Hundred Fifty Euros)* | [ &nbsp; ] |
-| **MODULE B** | **Documentation, Visa File Preparation & Consular Interview Coaching**<br>• Verification of visa documentary checklists, motivation letter/SOP layout, financial sponsorship file collation, and mock consular interview coaching. | **€400** *(Four Hundred Euros)* | [ &nbsp; ] |
-| **MODULE C** | **Comprehensive Educational Consultancy & Profile Advisory**<br>• Long-term strategic career mapping, scholarship identification, post-admission pre-departure briefing, and priority case management. | **€500** *(Five Hundred Euros)* | [ &nbsp; ] |
-| **TOTAL (A + B + C)** | **Cumulative Sum of Individual Services (A la carte)** | **€1,250** *(Twelve Hundred Fifty Euros)* | — |
-| **ALL-IN-ONE BUNDLE** | **COMPREHENSIVE FULL-SERVICE PACKAGE (Procured Concurrently)**<br>• *Includes Modules A, B, and C in full.*<br>• **10% Upfront Package Rebate Applied** (Discount: €125) | **€1,125** *(Eleven Hundred Twenty-Five Euros Net)* | [ &nbsp; ] |
+| Module Code | Description of Services Rendered | Fee (EUR) | Selection |
+|---|---|---|:---:|
+| **MODULE A** | **University Admission Processing & Placement Liaison**<br>Institutional matching, qualification evaluation, application dossier preparation, and direct submission to accredited overseas universities. *(Governed by the 50% Admission Partial Rebate under Clause 4.2)* | **€350** | ☐ Select |
+| **MODULE B** | **Documentation, Visa File Preparation & Consular Interview Coaching**<br>Verification of visa documentary checklists, motivation letter/SOP drafting, financial dossier layout, and mock consular interview coaching. | **€400** | ☐ Select |
+| **MODULE C** | **Educational Consultancy & Strategic Profile Advisory**<br>Long-term strategic academic mapping, university shortlisting, pre-departure orientation, and dedicated procedural advisory retainer. | **€500** | ☐ Select |
+| **A LA CARTE TOTAL** | **Cumulative Sum of Individual Services (Modules A + B + C)** | **€1,250** | — |
+| **COMPLETE BUNDLE** | **ALL-IN-ONE COMPREHENSIVE PACKAGE (Paid Concurrently Upon Signing)**<br>Includes Modules A, B, and C in full with dedicated priority processing.<br>• **10% Upfront Package Discount Applied (Net Concession: €125)** | **€1,125** | ☐ Select |
 
-3.2. **Currency Conversion & Remittance Mechanism:** All professional fees stated in Euros (€) may be remitted in equivalent Pakistani Rupees (PKR) or foreign currency calculated at the prevailing official interbank selling exchange rate on the date of execution/invoicing.
+3.2. **Specialized Government Scholarship & Research Supervision Tracks:**
+For candidates seeking competitive, fully funded government scholarship awards and postgraduate research supervisor placements, the following specialized service tiers shall apply:
 
-3.3. **Package Incentive Conditions:** The 10% discount is contingent upon the concurrent procurement and upfront settlement of the Complete Full-Service Package at the time of Agreement execution. Procurement of individual modules on a piecemeal, staged, or retroactive basis shall be invoiced at the standard un-discounted standalone rates without retroactive concession.
+| Service Track | Description & Specialized Scope | Applicable Fee (EUR) | Selection |
+|---|---|---|:---:|
+| **TRACK S-1** | **Elite Government Scholarship Comprehensive Package**<br>Targeted preparation and portal application for prestigious international government scholarships (including CSC China, MEXT Japan, GKS South Korea, DAAD Germany, Türkiye Bursları, Erasmus+ Joint Masters, Fulbright, and Commonwealth). Includes specialized academic proposal guidance, research resume structuring, and scholarship committee liaison. | **€2,000 – €5,000**<br>*(Based on destination, level & research scope)* | ☐ Select |
+| **TRACK S-2** | **Professor Outreach & Research Supervisor Hunting Service**<br>Systematic academic faculty research, laboratory profiling, and structured email outreach campaigns to identify prospective supervising professors for acceptance letters (essential for China CSC, Japan MEXT, and Korean PhD/Master tracks).<br>*(Excludes general scholarship portal filing)* | **€0.25 per email**<br>*(Billed in target outreach batches, e.g. 200 emails = €50, 400 emails = €100)* | ☐ Select |
 
-3.4. **Earned Consideration:** The Client expressly recognizes and affirms that the Professional Fee represents consideration solely for the administrative labour, professional counseling hours, personnel allocation, digital resources, overseas telecommunication costs, and organizational expenditures consumed by the Company upon the initiation and execution of this Agreement. Consequently, said Professional Fee is deemed earned by the Company pro-rata based on the expenditure of advisory effort, entirely independent of the eventual decision reached by any third-party foreign body.
+3.3. **Package Incentive Conditions:** The 10% comprehensive discount is strictly contingent upon the concurrent procurement and upfront settlement of the Complete Full-Service Package (€1,125) at the time of Agreement execution. Procurement of individual modules on a piecemeal, staged, or retroactive basis shall be invoiced at the standard un-discounted standalone rates without retroactive concession.
 
-3.5. **Exclusion of Statutory and Third-Party Disbursements:** The Professional Fee is exclusive of, and does not encompass:
+3.4. **Currency Conversion & Remittance:** All professional fees stated in Euros (€) may be remitted in equivalent Pakistani Rupees (PKR) or foreign currency calculated at the prevailing official interbank selling exchange rate on the date of execution/invoicing.
+
+3.5. **Earned Consideration:** The Client expressly recognizes and affirms that the Professional Fee represents consideration solely for the administrative labour, professional counseling hours, personnel allocation, digital resources, overseas telecommunication costs, and organizational expenditures consumed by the Company upon the initiation and execution of this Agreement. Consequently, said Professional Fee is deemed earned by the Company pro-rata based on the expenditure of advisory effort, entirely independent of the eventual decision reached by any third-party foreign body.
+
+3.6. **Exclusion of Statutory and Third-Party Disbursements:** The Professional Fee is exclusive of, and does not encompass:
    - (a) University application, matriculation, or evaluation fees;
    - (b) Embassy, visa application center (VFS/Gerry's/TLScontact), or biometrics surcharges;
    - (c) Medical examination, police character certificates, notarization, apostille, or legal translation fees;
@@ -86,16 +94,21 @@ All such disbursements shall be borne exclusively and directly by the Client.
 
 ---
 
-### CLAUSE 4: NON-REFUNDABILITY, RETENTION OF FEES & CONDITIONAL EX-GRATIA ADJUSTMENT
+### CLAUSE 4: NON-REFUNDABILITY, ADMISSION GUARANTEE REBATE & EX-GRATIA ADJUSTMENT
 
-4.1. **General Non-Refundability Doctrine:** Save as expressly and narrowly provided under sub-clause 4.2 herein, all payments, retainers, and installments tendered to the Company are **strictly non-refundable, non-transferable, and non-assignable**, regardless of the withdrawal of the Client, change of personal circumstances, marital developments, financial constraints, institutional academic postponement, or visa denial.
+4.1. **General Non-Refundability Doctrine:** Save as expressly and narrowly provided under sub-clauses 4.2 and 4.3 herein, all payments, retainers, and installments tendered to the Company are **strictly non-refundable, non-transferable, and non-assignable**, regardless of the withdrawal of the Client, change of personal circumstances, marital developments, financial constraints, institutional academic postponement, or visa denial.
 
-4.2. **Conditional, Discretionary Ex-Gratia Administrative Rebate:**
-   - (a) In the sole event that the Client receives a formal, substantive refusal of an entry visa from the designated foreign diplomatic mission, and provided that such refusal does not arise from, relate to, or correlate with any factor listed under Clause 4.3;
-   - (b) The Company may, upon its **sole, unfettered, non-justiciable, and absolute administrative discretion**, consider an *ex-gratia* partial remittance/rebate of an amount not exceeding **twenty percent (20%) to thirty percent (30%)** of the net professional retainership fee actually received by the Company (expressly excluding all third-party, governmental, sub-agent, and operational overhead costs);
+4.2. **University Admission Guarantee & Fifty Percent (50%) Partial Rebate (Module A):**
+   - (a) In the event that the Company, following diligent application filing to recognized accredited partner/target institutions, is unable to secure an official Letter of Acceptance / Admission Offer for the Client, the Company covenants to refund **fifty percent (50%) of the Module A admission fee (specifically €175 out of the €350 admission tariff)**.
+   - (b) The remaining **fifty percent (50% / €175)** shall be irrevocably retained by the Company as non-refundable consideration for application collation, portal registrations, international documentation evaluations, and administrative overheads incurred.
+   - (c) **Pre-conditions for Admission Rebate:** This 50% rebate shall apply strictly provided that: (i) the Client provided all requisite, authentic, and attested academic credentials within agreed deadlines; (ii) the Client met the published minimum entry criteria (e.g. GPA, language proficiency); and (iii) the Client did not unilaterally abandon, delay, or withdraw the application.
+
+4.3. **Conditional, Discretionary Ex-Gratia Administrative Visa Refusal Rebate:**
+   - (a) In the sole event that the Client receives a formal, substantive refusal of an entry visa from the designated foreign diplomatic mission, and provided that such refusal does not arise from, relate to, or correlate with any factor listed under Clause 4.4;
+   - (b) The Company may, upon its **sole, unfettered, non-justiciable, and absolute administrative discretion**, consider an *ex-gratia* partial remittance/rebate of an amount not exceeding **twenty percent (20%) to thirty percent (30%)** of the net professional retainership fee actually received by the Company (expressly excluding third-party fees, institutional charges, professor hunting outreach costs, and operational overheads);
    - (c) The determination of the exact percentage (zero to thirty percent) shall remain the exclusive administrative prerogative of the Executive Management of the Company, taking into account the total man-hours expended, documentation complexity, and institutional correspondence generated.
 
-4.3. **Absolute Forfeiture Events (Zero Remittance / 0% Refund):**
+4.4. **Absolute Forfeiture Events (Zero Remittance / 0% Refund):**
 The Client and Guarantor explicitly acknowledge that **no refund, adjustment, credit, or ex-gratia remittance of any quantum whatsoever** shall be considered or granted under any of the following circumstances:
    - (i) **Documentary Defect or Inauthenticity:** Submission of any fraudulent, altered, fabricated, unverified, inaccurate, forged, or misleading academic, financial, marital, or employment documentation by the Client or their representatives;
    - (ii) **Consular Interview Deficiency:** Inability of the Client to satisfy consular interview parameters, failure to attend the scheduled visa or biometrics interview, failure to answer interview questions adequately, or failure to demonstrate sufficient linguistic/academic competence;
