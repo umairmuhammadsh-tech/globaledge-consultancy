@@ -53,7 +53,10 @@ export default function ContactPage() {
     setErrorMsg('')
 
     try {
-      const response = await fetch(`${API_URL}/api/contact`, {
+      const endpoint = API_URL && API_URL.startsWith('http') && !API_URL.includes('localhost')
+        ? `${API_URL}/api/contact`
+        : '/api/contact'
+      const response = await fetch(endpoint, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(form),

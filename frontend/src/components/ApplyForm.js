@@ -68,7 +68,10 @@ export default function ApplyForm() {
     setErrorMsg('')
 
     try {
-      const response = await fetch(`${API_URL}/api/applications`, {
+      const endpoint = API_URL && API_URL.startsWith('http') && !API_URL.includes('localhost') 
+        ? `${API_URL}/api/applications` 
+        : '/api/applications'
+      const response = await fetch(endpoint, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(form),

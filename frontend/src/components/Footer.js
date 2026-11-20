@@ -32,10 +32,12 @@ const destinations = [
 const quickLinks = [
   { label: 'Home', href: '/' },
   { label: 'Services', href: '/services' },
+  { label: 'Scholarships', href: '/scholarships' },
   { label: 'Destinations', href: '/countries' },
   { label: 'About Us', href: '/about' },
   { label: 'Apply Now', href: '/apply' },
   { label: 'Contact', href: '/contact' },
+  { label: 'Admin Portal', href: '/admin' },
 ]
 
 export default function Footer() {
