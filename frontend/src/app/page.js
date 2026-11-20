@@ -50,14 +50,21 @@ export default function HomePage() {
                 We help students secure fully funded scholarships from the world's top governments.
               </p>
             </div>
-            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4 mb-10">
+            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 mb-10">
               {[
-                { flag: '🇨🇳', name: 'CSC China', color: 'bg-red-50 border-red-200' },
+                { flag: '🇨🇳', name: 'CSC / ANSO China', color: 'bg-red-50 border-red-200' },
                 { flag: '🇯🇵', name: 'MEXT Japan', color: 'bg-pink-50 border-pink-200' },
-                { flag: '🇪🇺', name: 'Erasmus+', color: 'bg-blue-50 border-blue-200' },
+                { flag: '🇪🇺', name: 'Erasmus+ Europe', color: 'bg-blue-50 border-blue-200' },
                 { flag: '🇩🇪', name: 'DAAD Germany', color: 'bg-gray-50 border-gray-300' },
                 { flag: '🇹🇷', name: 'Türkiye Bursları', color: 'bg-red-50 border-red-200' },
-                { flag: '🇰🇷', name: 'GKS Korea', color: 'bg-cyan-50 border-cyan-200' },
+                { flag: '🇰🇷', name: 'GKS South Korea', color: 'bg-cyan-50 border-cyan-200' },
+                { flag: '🇷🇺', name: 'Open Doors Russia', color: 'bg-indigo-50 border-indigo-200' },
+                { flag: '🇷🇺', name: 'Study In Russia', color: 'bg-blue-50 border-blue-300' },
+                { flag: '🇸🇦', name: 'Saudi Scholarship', color: 'bg-emerald-50 border-emerald-200' },
+                { flag: '🇮🇩', name: 'KNB Indonesia', color: 'bg-rose-50 border-rose-200' },
+                { flag: '🇺🇸', name: 'SUSI Leaders USA', color: 'bg-blue-50 border-red-200' },
+                { flag: '🇫🇷', name: 'Eiffel France', color: 'bg-indigo-50 border-indigo-200' },
+                { flag: '🇧🇪', name: 'Master Mind Belgium', color: 'bg-amber-50 border-amber-200' },
                 { flag: '🇭🇺', name: 'Stipendium Hungary', color: 'bg-green-50 border-green-200' },
               ].map((s) => (
                 <Link
@@ -72,7 +79,7 @@ export default function HomePage() {
             </div>
             <div className="text-center">
               <Link href="/scholarships" className="btn-primary px-10 py-4 text-base">
-                View All 12+ Scholarships →
+                View All 19+ Scholarships & Apply →
               </Link>
             </div>
           </div>
