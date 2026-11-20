@@ -59,13 +59,25 @@ C. The Parties desire to formalize the terms, conditions, procedural covenants, 
 
 ---
 
-### CLAUSE 3: REMUNERATION, PROFESSIONAL FEES & CONSIDERATION FOR LABOUR
+### CLAUSE 3: REMUNERATION, ITEMIZED FEE SCHEDULE & COMPREHENSIVE PACKAGE INCENTIVE
 
-3.1. **Consideration for Advisory Labour:** The Client agrees to tender to the Company the agreed Professional Consultancy Fee amounting to PKR / USD ________________________ (hereinafter the **"Professional Fee"**), according to the mutually ratified payment schedule.
+3.1. **Standard Itemized Fee Schedule:** The Client agrees to tender to the Company the requisite Professional Fees in accordance with the following structured service modules:
 
-3.2. **Earned Consideration:** The Client expressly recognizes and affirms that the Professional Fee represents consideration solely for the administrative labour, professional counseling hours, personnel allocation, digital resources, overseas telecommunication costs, and organizational expenditures consumed by the Company upon the initiation and execution of this Agreement. Consequently, said Professional Fee is deemed earned by the Company pro-rata based on the expenditure of advisory effort, entirely independent of the eventual decision reached by any third-party foreign body.
+| Service Module Code | Description of Specialized Advisory Services | Standalone Tariff (EUR) | Applicable Selection [✓] |
+|---|---|---|---|
+| **MODULE A** | **University Admission Processing & Academic Placement Liaison**<br>• Institutional matching, qualification evaluation, and submission of academic admission dossiers to accredited international colleges/universities. | **€350** *(Three Hundred Fifty Euros)* | [ &nbsp; ] |
+| **MODULE B** | **Documentation, Visa File Preparation & Consular Interview Coaching**<br>• Verification of visa documentary checklists, motivation letter/SOP layout, financial sponsorship file collation, and mock consular interview coaching. | **€400** *(Four Hundred Euros)* | [ &nbsp; ] |
+| **MODULE C** | **Comprehensive Educational Consultancy & Profile Advisory**<br>• Long-term strategic career mapping, scholarship identification, post-admission pre-departure briefing, and priority case management. | **€500** *(Five Hundred Euros)* | [ &nbsp; ] |
+| **TOTAL (A + B + C)** | **Cumulative Sum of Individual Services (A la carte)** | **€1,250** *(Twelve Hundred Fifty Euros)* | — |
+| **ALL-IN-ONE BUNDLE** | **COMPREHENSIVE FULL-SERVICE PACKAGE (Procured Concurrently)**<br>• *Includes Modules A, B, and C in full.*<br>• **10% Upfront Package Rebate Applied** (Discount: €125) | **€1,125** *(Eleven Hundred Twenty-Five Euros Net)* | [ &nbsp; ] |
 
-3.3. **Exclusion of Statutory and Third-Party Disbursements:** The Professional Fee is exclusive of, and does not encompass:
+3.2. **Currency Conversion & Remittance Mechanism:** All professional fees stated in Euros (€) may be remitted in equivalent Pakistani Rupees (PKR) or foreign currency calculated at the prevailing official interbank selling exchange rate on the date of execution/invoicing.
+
+3.3. **Package Incentive Conditions:** The 10% discount is contingent upon the concurrent procurement and upfront settlement of the Complete Full-Service Package at the time of Agreement execution. Procurement of individual modules on a piecemeal, staged, or retroactive basis shall be invoiced at the standard un-discounted standalone rates without retroactive concession.
+
+3.4. **Earned Consideration:** The Client expressly recognizes and affirms that the Professional Fee represents consideration solely for the administrative labour, professional counseling hours, personnel allocation, digital resources, overseas telecommunication costs, and organizational expenditures consumed by the Company upon the initiation and execution of this Agreement. Consequently, said Professional Fee is deemed earned by the Company pro-rata based on the expenditure of advisory effort, entirely independent of the eventual decision reached by any third-party foreign body.
+
+3.5. **Exclusion of Statutory and Third-Party Disbursements:** The Professional Fee is exclusive of, and does not encompass:
    - (a) University application, matriculation, or evaluation fees;
    - (b) Embassy, visa application center (VFS/Gerry's/TLScontact), or biometrics surcharges;
    - (c) Medical examination, police character certificates, notarization, apostille, or legal translation fees;
