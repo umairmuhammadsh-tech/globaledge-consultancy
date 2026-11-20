@@ -189,10 +189,11 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
           <p>© {new Date().getFullYear()} GlobalEdge Consultancy. All rights reserved.</p>
-          <div className="flex gap-6">
+          <div className="flex flex-wrap gap-4 text-xs">
+            <a href="/LEGAL_STUDENT_CONTRACT.pdf" download className="hover:text-gold transition-colors underline">Legal Contract (PDF)</a>
+            <a href="/LEGAL_STUDENT_CONTRACT.docx" download className="hover:text-gold transition-colors underline">Legal Contract (Word)</a>
             <Link href="#" className="hover:text-gold transition-colors">Privacy Policy</Link>
             <Link href="#" className="hover:text-gold transition-colors">Terms of Service</Link>
-            <Link href="#" className="hover:text-gold transition-colors">Cookie Policy</Link>
           </div>
         </div>
       </div>

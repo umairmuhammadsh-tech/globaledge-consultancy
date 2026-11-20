@@ -228,11 +228,27 @@ export default function AdminPortal() {
             </div>
           </div>
 
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-3">
+            <a
+              href="/LEGAL_STUDENT_CONTRACT.pdf"
+              download
+              className="flex items-center gap-1.5 bg-gold/20 border border-gold/40 text-gold hover:bg-gold hover:text-primary px-3 py-1.5 rounded-lg text-xs font-semibold transition-all"
+              title="Download legal student contract PDF"
+            >
+              <FaDownload size={11} /> Contract (PDF)
+            </a>
+            <a
+              href="/LEGAL_STUDENT_CONTRACT.docx"
+              download
+              className="flex items-center gap-1.5 bg-white/10 hover:bg-white/20 text-blue-200 hover:text-white px-3 py-1.5 rounded-lg text-xs font-medium transition-all"
+              title="Download legal student contract in Word format"
+            >
+              <FaFileAlt size={11} /> Word (.docx)
+            </a>
             <Link
               href="/"
               target="_blank"
-              className="text-xs text-blue-200 hover:text-white transition-colors hidden sm:inline"
+              className="text-xs text-blue-200 hover:text-white transition-colors hidden md:inline ml-2"
             >
               View Public Website ↗
             </Link>
