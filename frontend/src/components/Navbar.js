@@ -10,6 +10,7 @@ const navLinks = [
   { label: 'Services', href: '/services' },
   { label: 'Scholarships', href: '/scholarships' },
   { label: 'Destinations', href: '/countries' },
+  { label: '📱 Mobile App', href: '/mobile' },
   { label: 'About Us', href: '/about' },
   { label: 'Contact', href: '/contact' },
 ]

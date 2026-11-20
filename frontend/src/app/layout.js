@@ -1,11 +1,23 @@
 import './globals.css'
 
+export const viewport = {
+  themeColor: '#0A192F',
+  width: 'device-width',
+  initialScale: 1,
+}
+
 export const metadata = {
   title: 'GlobalEdge Consultancy | Your Gateway to World-Class Education',
   description:
     'GlobalEdge Consultancy helps students achieve their dreams of studying abroad with expert guidance on university admissions, visa support, scholarships, and test prep for UK, USA, Canada, Australia, Germany, and New Zealand.',
   keywords:
     'study abroad, university admissions, visa guidance, scholarship, IELTS, TOEFL, GRE, UK, USA, Canada, Australia, Germany, New Zealand, student consultancy',
+  manifest: '/manifest.json',
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'black-translucent',
+    title: 'GlobalEdge',
+  },
   openGraph: {
     title: 'GlobalEdge Consultancy | Your Gateway to World-Class Education',
     description:
@@ -25,6 +37,11 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
         />
         <link rel="icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="apple-mobile-web-app-title" content="GlobalEdge" />
       </head>
       <body className="antialiased">{children}</body>
     </html>
